@@ -1,1 +1,1 @@
-this is git bash
+this is bash
